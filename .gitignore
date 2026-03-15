@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Chroma Vector Database
+backend/vector_db/
+
+# SQLite DB
+*.sqlite3
+
+# Model cache (huggingface)
+.cache/
+.huggingface/
+
+# Jupyter
+.ipynb_checkpoints/
