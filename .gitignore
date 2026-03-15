@@ -22,7 +22,7 @@ Thumbs.db
 *.log
 
 # Chroma Vector Database
-backend/vector_db/
+# backend/vector_db/
 
 # SQLite DB
 *.sqlite3
